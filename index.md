@@ -12,6 +12,8 @@ There are several reasons to learn how to use the CLI:
 - The shell gives you power. The command line allows you to work more efficiently. Tasks that are repetitive (e.g. renaming hundreds of files) can be automated. Tasks that are tedious (e.g. testing a range of input parameters) can be simplified.
 - To use remote computers or cloud computing, you often need to use the shell.
 
+[Register](FIXME) for this workshop and explore Unix with the [Computing Basics](https://broad.io/computingbasics) team.
+
 ::::::::::::::::::::::::::::::::::::::::::  prereq
 
 ## Getting Started
