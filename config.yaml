@@ -78,7 +78,6 @@ learners:
 # Information for Instructors
 instructors:
   - instructor-notes.md
-  - Extra_lesson.md
 
 # Learner Profiles
 profiles:
